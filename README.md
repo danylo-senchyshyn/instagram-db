@@ -1,4 +1,8 @@
-###Instagram, Clone PostgreSQL 
-##•	Simulated Instagram’s key features using PostgreSQL, including user profiles, posts, likes, and comments with realistic data and relational mappings.
-##•	The implementation features PL/pgSQL triggers, functions, and stored procedures for tasks like auto-incrementing IDs and post creation logic. It also includes 10 custom views using joins, aggregations, nested queries, and set operations.
-![image](https://github.com/user-attachments/assets/59ab0490-ca32-43d2-946e-255bd2837720)
+# Instagram Clone на PostgreSQL
+
+• Смоделировал ключевые функции Instagram с помощью PostgreSQL:  
+  профили пользователей, публикации, лайки и комментарии с реалистичными данными и корректными связями.  
+
+• Реализовал PL/pgSQL триггеры, функции и хранимые процедуры для автоматического инкремента ID и логики создания постов.  
+
+• Создал 10 кастомных представлений (views) с использованием JOIN, агрегатных функций, вложенных запросов и операций над множествами.
